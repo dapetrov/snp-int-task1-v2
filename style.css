@@ -250,7 +250,7 @@ h3 {
         rgba(0, 0, 0, 0) 39.9%
       ),
       linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-      url(/src/header/header-img.png);
+      url(/src/Header/header-img.png);
     background-position: center;
     background-size: cover;
     height: 831px;
