@@ -294,7 +294,7 @@ h3 {
   margin: 33px 0 0 21px;
   width: 133px;
   height: 22px;
-  background: url(/src/header/YourTour360.svg);
+  background: url(./src/Header/YourTour360.svg);
   background-size: cover;
 }
 @media (min-width: 1023px) {
@@ -302,7 +302,7 @@ h3 {
     margin: 29px 0 29px 57px;
     width: 182px;
     height: 31px;
-    background: url(/src/header/YourTour1024.svg);
+    background: url(./src/header/YourTour1024.svg);
   }
 }
 @media (min-width: 1800px) {
@@ -310,14 +310,14 @@ h3 {
     margin: 29px 0 29px 376px;
     width: 182px;
     height: 31px;
-    background: url(/src/header/YourTour1024.svg);
+    background: url(./src/header/YourTour1024.svg);
   }
 }
 .header__Scroll {
   margin: 5px 0 0 21px;
   width: 133px;
   height: 22px;
-  background: url(/src/header/YourTour360Scroll.svg);
+  background: url(./src/header/YourTour360Scroll.svg);
   background-size: cover;
 }
 @media (min-width: 1023px) {
@@ -325,7 +325,7 @@ h3 {
     margin: 1px 0 0 57px;
     width: 182px;
     height: 31px;
-    background: url(/src/header/YourTour1024Scroll.svg);
+    background: url(./src/header/YourTour1024Scroll.svg);
   }
 }
 @media (min-width: 1800px) {
@@ -333,7 +333,7 @@ h3 {
     margin: 1px 0 0 376px;
     width: 182px;
     height: 31px;
-    background: url(/src/header/YourTour1024Scroll.svg);
+    background: url(./src/header/YourTour1024Scroll.svg);
   }
 }
 
