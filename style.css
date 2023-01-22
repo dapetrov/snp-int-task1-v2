@@ -588,19 +588,19 @@ h3 {
   }
 }
 
-.tour-type__first-row-wrapper {
+.tour-type__row-wrapper {
   display: flex;
   flex-direction: column;
   gap: 10px;
 }
 @media (min-width: 1023px) {
-  .tour-type__first-row-wrapper {
+  .tour-type__row-wrapper {
     flex-direction: row;
     gap: 30px;
   }
 }
 
-.tour-type__first-row {
+.tour-type__row {
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -610,7 +610,7 @@ h3 {
   height: 23px;
 }
 @media (min-width: 1023px) {
-  .tour-type__first-row {
+  .tour-type__row {
     gap: 30px;
   }
 }
